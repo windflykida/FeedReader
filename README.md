@@ -7,12 +7,12 @@
 * [Information](#Information)
 * [Instruction](#Instructions)
 
-# Project
+## Project
 
 Project is part of Udacity Front-End Web Develeper Nanodegree Schoolarship.
 The main purpose is to learn and understand tests which are provide by [Jasmine framework](#https://jasmine.github.io/).
 
-# Instructions
+## Instructions
 
 1. Clone or download repo from [link](#https://github.com/windflykida/FeedReader.git).
 2. Open and run index.html in browser.
@@ -22,7 +22,7 @@ The main purpose is to learn and understand tests which are provide by [Jasmine 
 5. Test which runs correctly is green.
 5. Test which runs wrong is red.
 
-# Information
+## Information
 
 The main goal is to check  whether our code is working properly. If all specs are displayed in green, we know that everything is fine.
 If even one specification gives us an error, we know that we must make corrections.
